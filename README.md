@@ -36,4 +36,4 @@
 
 
 ### You can find in me in the web 🌍
-[<img align="left" alt="http://sudhinjyothis.netlify.app/" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" align="left" alt="sudhinjyothis" width="22px" src="http://sudhinjyothis.netlify.app/" />]
