@@ -36,7 +36,6 @@
 
 
 ### You can find in me in the web 🌍
-[<img src="https://sudhinjyothis.netlify.app/assets/images/sj1.jpg" align="left" alt="Sudhinjyothis" width="22px" src="https://sudhinjyothis.netlify.app/" />]
-<br/>
+[<img align="left" alt="Souarvdey777" width="22px" src="https://sudhinjyothis.netlify.app/" />][website]
 
 
