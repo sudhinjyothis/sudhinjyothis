@@ -35,5 +35,3 @@
 
 
 
-### You can find in me in the web 🌍
-<img align="left" alt="sudhinjyothis" width="22px" src="http://sudhinjyothis.netlify.app/" />
