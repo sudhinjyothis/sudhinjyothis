@@ -9,8 +9,7 @@
  
  👯 I’m looking to collaborate .......
  
- 🤔 I’m looking for help ......
- 
+
 
 ---
 
