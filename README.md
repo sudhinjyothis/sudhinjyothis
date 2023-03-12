@@ -11,12 +11,12 @@
 </p>
 
 
-## :sassy_man:  About me
-- :school: I am a BE student at Sahyadri college of engineering mangalore
-- :technologist: I love using Software as a solution for every `Problem`
-- :computer: I am a full stack developer 
-- :student: I’m currently learning: `Cyber Security` and `React native`.
-- :nerd_face: Always `learning new things`
+##  About me
+- I am a BE student at Sahyadri college of engineering mangalore
+- I love using Software as a solution for every `Problem`
+- I am a full stack developer 
+- `Cyber Security` and `React native`.
+- `learning new things`
 
 <br>
 
@@ -95,8 +95,6 @@
     <a href="#"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
   &emsp;
     <a href="#"><img alt="Google Sheets" src="https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img alt="Stack Overflow" src="https://aleen42.github.io/badges/src/stackoverflow.svg"></a>
   &emsp;
  <a href="#"><img alt="node js" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"></a>
 	&emsp;
