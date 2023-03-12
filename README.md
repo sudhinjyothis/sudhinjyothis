@@ -94,8 +94,6 @@
   &emsp;
     <a href="#"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
   &emsp;
-    <a href="#"><img alt="Google Sheets" src="https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white"></a>
-  &emsp;
  <a href="#"><img alt="node js" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"></a>
 	&emsp;
  <a href="#"><img alt="Express js" src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge"></a>
