@@ -6,26 +6,15 @@
 
 <br>
 
-<p align="center"> 
-	<img src="https://komarev.com/ghpvc/?username=sudhinjyothis&color=green" alt="Sudhinjyotis" /> 
-</p>
-
 
 ##  About me
 - I am a BE student at Sahyadri college of engineering mangalore
 - I love using Software as a solution for every `Problem`
 - I am a full stack developer 
-- `Cyber Security` and `React native`.
+- `Cyber Security` and `Fullstack development`.
 - `learning new things`
 
 <br>
-
-## 🔥 Streak Stats
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=sudhinjyothis&theme=github-dark-blue&date_format=M%20j%5B%2C%20Y%5D&fire=DD2727" alt="SudhinJyothis" /></p>
-
-<br>
-<br>
-
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Connect with me
 <p align="center">
@@ -33,7 +22,6 @@
 	<a href="https://github.com/sudhinjyothis"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 	<a href="https://www.linkedin.com/in/sudhin-jyothis/"><img src="https://xinetzone.github.io/ColoredBadges/svg/social/linkedin.svg" alt="LinkedIn"/></a>
 	<a href="https://www.instagram.com/sudhinjyothis/"><img src="https://xinetzone.github.io/ColoredBadges/svg/social/instagram.svg" alt="Instagram"/></a>
-	<a href="https://www.snapchat.com/add/sudhinjyothis?share_id=wHJ45yStX2U&locale=en-GB"><img src="https://xinetzone.github.io/ColoredBadges/svg/social/snapchat.svg" alt="Snap Chat"/></a>
 </p>
 
 
